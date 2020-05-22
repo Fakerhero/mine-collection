@@ -221,8 +221,10 @@
 * 多线程
 * JVM
 * Spring
+* Spring MVC
 * MyBatis
 * Spring Boot
 * Spring Cloud
 * MySQL
 * Redis
+* 消息队列

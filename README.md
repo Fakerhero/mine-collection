@@ -123,6 +123,7 @@
 * [狂神说Java - Redis最新超详细版教程通俗易懂](https://www.bilibili.com/video/BV1S54y1R7SB)
 * [御风大世界 - Dubbo教程-干货大合集-分布式项目实战演示](https://www.bilibili.com/video/BV1at41197Z6)
 * 小马哥讲Spring核心编程思想
+* MySQL实战45讲 -林晓斌 网名丁奇，前阿里资深技术专家
 
 
 
